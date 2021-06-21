@@ -21,6 +21,9 @@
 
 ## Install
 
+`pip install pyutilitytool`
+
+
 ****
 
 | 工具        | 版本      | 备注 |
